@@ -10,7 +10,7 @@ This treebank is based on the LIA treebank of transcribed spoken Norwegian diale
 Documentation status: partial
 Data source: automatic
 Data available since: UD v2.1
-License: 
+License: CC BY-SA
 Genre: spoken
 Contributors: Øvrelid, Lilja
 Contact: liljao@ifi.uio.no
