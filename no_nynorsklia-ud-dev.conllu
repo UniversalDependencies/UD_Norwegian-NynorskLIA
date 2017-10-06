@@ -357,7 +357,7 @@
 3	det	det	DET	_	Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 4	første	første	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	1	amod	_	_
 5	men	men	CCONJ	_	_	1	conj	_	_
-6	…	…	NEW	_	_	5	discourse:filler	_	_
+6	…	…	PUNCT	_	_	5	discourse:filler	_	_
 7	.	$.	PUNCT	_	_	1	punct	_	_
 
 # sent_id =  001090
@@ -1115,7 +1115,7 @@
 6	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 7	med	med	ADP	_	_	2	case	_	_
 8	og	og	CCONJ	_	_	5	cc	_	_
-9	s…	_	NEW	_	_	5	discourse:filler	_	_
+9	s…	_	X	_	_	5	discourse:filler	_	_
 10	.	$.	PUNCT	_	_	5	punct	_	_
 
 # sent_id =  001162
@@ -1496,7 +1496,7 @@
 3	og	og	CCONJ	_	_	4	cc	_	_
 4	dit	dit	ADV	_	_	2	conj	_	_
 5	#	#	PUNCT	_	_	7	punct	_	_
-6	å	_	NEW	_	_	7	obl	_	_
+6	å	_	X	_	_	7	obl	_	_
 7	tilbake	tilbake	ADP	_	_	4	conj	_	_
 8	igjen	igjen	ADV	_	_	7	advmod	_	_
 9	.	$.	PUNCT	_	_	2	punct	_	_
@@ -2045,7 +2045,7 @@
 # text = han M13 å han M14 var jo mindre så han .
 1	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 2	M13	M13	PROPN	_	_	1	appos	_	_
-3	å	_	NEW	_	_	8	obl	_	_
+3	å	_	X	_	_	8	obl	_	_
 4	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	conj	_	_
 5	M14	M14	PROPN	_	_	4	appos	_	_
 6	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	8	cop	_	_
@@ -2096,36 +2096,38 @@
 5	.	$.	PUNCT	_	_	3	punct	_	_
 
 # sent_id =  001236
-# sent_id =  001237
-# text = ja det er litt igjen på bandet det er ikkje mykje men . e eg budde altså i øvste gata oppfor samvirkelaget som er nedi gata nå .
+# text = ja det er litt igjen på bandet det er ikkje mykje men .
 1	ja	ja	INTJ	_	_	7	discourse	_	_
 2	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 3	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
-4	litt	litt	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	advmod	_	_
+4	litt	litt	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	advmod	_	_
 5	igjen	igjen	ADV	_	_	7	advmod	_	_
 6	på	på	ADP	_	_	7	case	_	_
 7	bandet	band	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	0	root	_	_
-8	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
-9	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	_
-10	ikkje	ikkje	ADV	_	Polarity=Neg	13	advmod	_	_
+8	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+9	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	ikkje	ikkje	ADV	_	Polarity=Neg	11	advmod	_	_
 11	mykje	mykje	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	conj	_	_
-12	men	men	CCONJ	_	_	12	conj	_	_
+12	men	men	CCONJ	_	_	11	conj	_	_
 13	.	$.	PUNCT	_	_	7	punct	_	_
-1	e	e	X	_	_	7	discourse:filler	_	_
-2	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+
+# sent_id =  001237
+# text = e eg budde altså i øvste gata oppfor samvirkelaget som er nedi gata nå .
+1	e	e	X	_	_	3	discourse:filler	_	_
+2	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	budde	bu	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	altså	altså	ADV	_	_	7	advmod	_	_
+4	altså	altså	ADV	_	_	3	advmod	_	_
 5	i	i	ADP	_	_	7	case	_	_
 6	øvste	øvre	ADJ	_	Definite=Def|Degree=Sup	7	amod	_	_
-7	gata	gate	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	7	advcl	_	_
+7	gata	gate	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
 8	oppfor	oppfor	ADP	_	_	9	case	_	_
 9	samvirkelaget	samvirkelag	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	7	nmod	_	_
-10	som	som	PRON	_	PronType=Rel	13	nmod	_	_
+10	som	som	PRON	_	PronType=Rel	13	nsubj	_	_
 11	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	_
 12	nedi	nedi	ADP	_	_	13	case	_	_
-13	gata	gate	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	13	acl:relcl	_	_
+13	gata	gate	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	9	acl:relcl	_	_
 14	nå	nå	ADV	_	_	13	advmod	_	_
-15	.	$.	PUNCT	_	_	7	punct	_	_
+15	.	$.	PUNCT	_	_	3	punct	_	_
 
 # sent_id =  001238
 # text = altså så det blir der borte ein stad ?
@@ -2257,7 +2259,7 @@
 3	og	og	CCONJ	_	_	5	cc	_	_
 4	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
 5	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	…	…	NEW	_	_	5	punct	_	_
+6	…	…	PUNCT	_	_	5	punct	_	_
 7	.	$.	PUNCT	_	_	5	punct	_	_
 
 # sent_id =  001252
@@ -4389,7 +4391,7 @@
 
 # sent_id =  001387
 # text = « nei kor det blir utav han E1 ?
-1	«	«	NEW	_	_	5	obl	_	_
+1	«	«	PUNCT	_	_	5	obl	_	_
 2	nei	nei	INTJ	_	_	5	discourse	_	_
 3	kor	kor	ADV	_	_	5	advmod	_	_
 4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -4401,14 +4403,14 @@
 
 # sent_id =  001388
 # text = » sa nå dei her andre mennene « nei eg veit ikkje kor det er blitt av han # men eg såg lysa er sikker på at det var lysa eg så utav # det er jo ikkje nokre andre båtar som er på havet » sa eg .
-1	»	»	NEW	_	_	2	punct	_	_
+1	»	»	PUNCT	_	_	2	punct	_	_
 2	sa	seie	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	nå	nå	ADV	_	_	2	advmod	_	_
 4	dei	dei	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 5	her	her	ADV	_	_	4	advmod	_	_
 6	andre	annan	DET	_	Number=Plur|PronType=Dem	7	det	_	_
 7	mennene	mann	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	4	appos	_	_
-8	«	«	NEW	_	_	11	punct	_	_
+8	«	«	PUNCT	_	_	11	punct	_	_
 9	nei	nei	INTJ	_	_	11	discourse	_	_
 10	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 11	veit	vite	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
@@ -4446,7 +4448,7 @@
 43	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	45	cop	_	_
 44	på	på	ADP	_	_	45	case	_	_
 45	havet	hav	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	41	acl:relcl	_	_
-46	»	»	NEW	_	_	11	punct	_	_
+46	»	»	PUNCT	_	_	11	punct	_	_
 47	sa	seie	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	_	_
 48	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	47	nsubj	_	_
 49	.	$.	PUNCT	_	_	2	punct	_	_
@@ -4558,7 +4560,7 @@
 
 # sent_id =  001395
 # text = « nei s- kva kva er de her ?
-1	«	«	NEW	_	_	6	punct	_	_
+1	«	«	PUNCT	_	_	6	punct	_	_
 2	nei	nei	INTJ	_	_	6	discourse	_	_
 3	s-	s-	X	_	_	6	discourse:filler	_	_
 4	kva	kva	PRON	_	PronType=Int	5	reparandum	_	_
@@ -4570,7 +4572,7 @@
 
 # sent_id =  001396
 # text = » sa eg til dei ## ja # dei # har lege og e drive i maskinskade i fleire døgn sa han # eller .
-1	»	»	NEW	_	_	2	obl	_	_
+1	»	»	PUNCT	_	_	2	obl	_	_
 2	sa	seie	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 4	til	til	ADP	_	_	5	case	_	_

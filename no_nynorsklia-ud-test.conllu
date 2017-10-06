@@ -1520,7 +1520,7 @@
 1	så	så	CCONJ	_	_	3	cc	_	_
 2	da	da	ADV	_	_	3	advmod	_	_
 3	måtte	måtte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	…	…	NEW	_	_	3	discourse:filler	_	_
+4	…	…	PUNCT	_	_	3	discourse:filler	_	_
 5	.	$.	PUNCT	_	_	3	punct	_	_
 
 # sent_id =  000125
@@ -1875,7 +1875,7 @@
 20	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
 21	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
 22	at	at	SCONJ	_	_	26	mark	_	_
-23	«	«	NEW	_	_	26	punct	_	_
+23	«	«	PUNCT	_	_	26	punct	_	_
 24	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	_
 25	skal	skulle	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	26	aux	_	_
 26	reise	reise	VERB	_	VerbForm=Inf	21	appos	_	_
@@ -1884,7 +1884,7 @@
 29	tale	tale	VERB	_	VerbForm=Inf	26	conj	_	_
 30	ved	ved	ADP	_	_	31	case	_	_
 31	dei	dei	PRON	_	Animacy=Hum|Case=Acc|Number=Plur|Person=3|PronType=Prs	29	obl	_	_
-32	»	»	NEW	_	_	26	punct	_	_
+32	»	»	PUNCT	_	_	26	punct	_	_
 33	sa	seie	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	26	parataxis	_	_
 34	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	nsubj	_	_
 35	så	så	ADV	_	_	33	advmod	_	_
@@ -2527,7 +2527,7 @@
 12	da	da	ADV	_	_	4	advmod	_	_
 13	som	som	PRON	_	PronType=Rel	4	obj	_	_
 14	m	m	INTJ	_	_	4	discourse	_	_
-15	…	…	NEW	_	_	4	obl	_	_
+15	…	…	PUNCT	_	_	4	obl	_	_
 16	.	$.	PUNCT	_	_	4	punct	_	_
 
 # sent_id =  000208
@@ -2995,7 +2995,7 @@
 8	#	#	PUNCT	_	_	10	punct	_	_
 9	så	så	ADV	_	_	10	advmod	_	_
 10	lenge	lenge	ADJ	_	Degree=Pos	5	advmod	_	_
-11	…	…	NEW	_	_	13	punct	_	_
+11	…	…	PUNCT	_	_	13	punct	_	_
 12	#	#	PUNCT	_	_	13	punct	_	_
 13	nei	nei	INTJ	_	_	5	discourse	_	_
 14	.	$.	PUNCT	_	_	5	punct	_	_
@@ -3084,7 +3084,7 @@
 2	korn	korn	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
 3	og	og	CCONJ	_	_	4	cc	_	_
 4	litt	litt	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	_
-5	…	…	NEW	_	_	7	obl	_	_
+5	…	…	PUNCT	_	_	7	obl	_	_
 6	#	#	PUNCT	_	_	7	punct	_	_
 7	ja	ja	INTJ	_	_	2	discourse	_	_
 8	.	$.	PUNCT	_	_	2	punct	_	_
@@ -3641,7 +3641,7 @@
 17	sånn	sånn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	18	det	_	_
 18	kubbefjøs	kubbefjøs	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	15	nmod	_	_
 19	#	#	PUNCT	_	_	22	punct	_	_
-20	å	_	NEW	_	_	22	obl	_	_
+20	å	_	X	_	_	22	obl	_	_
 21	så	så	ADV	_	_	22	advmod	_	_
 22	dreiv	drive	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	11	conj	_	_
 23	vel	vel	ADV	_	_	22	advmod	_	_
@@ -3705,7 +3705,7 @@
 1	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	ikkje	ikkje	ADV	_	Polarity=Neg	2	advmod	_	_
-4	…	…	NEW	_	_	2	obl	_	_
+4	…	…	PUNCT	_	_	2	obl	_	_
 5	.	$.	PUNCT	_	_	2	punct	_	_
 
 # sent_id =  000323
@@ -4374,7 +4374,7 @@
 11	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
 12	på	på	ADP	_	_	10	compound:prt	_	_
 13	når	når	SCONJ	_	_	10	obl	_	_
-14	…	…	NEW	_	_	10	discourse:filler	_	_
+14	…	…	PUNCT	_	_	10	discourse:filler	_	_
 15	.	$.	PUNCT	_	_	3	punct	_	_
 
 # sent_id =  000375
@@ -4508,7 +4508,7 @@
 # sent_id =  000387
 # text = ned … .
 1	ned	ned	ADP	_	_	0	root	_	_
-2	…	…	NEW	_	_	1	discourse:filler	_	_
+2	…	…	PUNCT	_	_	1	discourse:filler	_	_
 3	.	$.	PUNCT	_	_	1	punct	_	_
 
 # sent_id =  000388
@@ -4721,7 +4721,7 @@
 # sent_id =  000407
 # text = den oøka # den var veldig fin å køyre m knupp .
 1	den	den	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-2	oøka	_	NEW	_	_	4	nmod	_	_
+2	oøka	_	X	_	_	4	nmod	_	_
 3	#	#	PUNCT	_	_	7	punct	_	_
 4	den	den	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 5	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	_
@@ -4862,7 +4862,7 @@
 # text = det måtte … .
 1	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	måtte	måtte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	…	…	NEW	_	_	2	obl	_	_
+3	…	…	PUNCT	_	_	2	obl	_	_
 4	.	$.	PUNCT	_	_	2	punct	_	_
 
 # sent_id =  000420
@@ -6043,11 +6043,11 @@
 11	sa	seie	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	_	_
 12	dei	dei	DET	_	Number=Plur|PronType=Dem	13	det	_	_
 13	gamle	gammal	ADJ	_	Degree=Pos|Number=Plur	10	appos	_	_
-14	«	«	NEW	_	_	17	obl	_	_
+14	«	«	PUNCT	_	_	17	obl	_	_
 15	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
 16	fekk	få	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	17	aux	_	_
 17	borge	borge	VERB	_	VerbForm=Inf	11	ccomp	_	_
-18	»	»	NEW	_	_	17	obl	_	_
+18	»	»	PUNCT	_	_	17	obl	_	_
 19	.	$.	PUNCT	_	_	5	punct	_	_
 
 # sent_id =  000523
@@ -6119,7 +6119,7 @@
 2	kva	kva	DET	_	PronType=Int	3	det	_	_
 3	slags	slags	NOUN	_	Gender=Neut	0	root	_	_
 4	e	e	X	_	_	3	discourse:filler	_	_
-5	…	…	NEW	_	_	3	punct	_	_
+5	…	…	PUNCT	_	_	3	punct	_	_
 6	?	$?	PUNCT	_	_	3	punct	_	_
 
 # sent_id =  000531
@@ -10829,7 +10829,7 @@
 7	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	med	med	ADP	_	_	1	conj	_	_
 9	i	i	ADP	_	_	8	obl	_	_
-10	…	…	NEW	_	_	8	punct	_	_
+10	…	…	PUNCT	_	_	8	punct	_	_
 11	?	$?	PUNCT	_	_	1	punct	_	_
 
 # sent_id =  000882
@@ -11269,13 +11269,13 @@
 19	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
 20	altså	altså	ADV	_	_	18	advmod	_	_
 21	#	#	PUNCT	_	_	27	punct	_	_
-22	«	«	NEW	_	_	27	punct	_	_
+22	«	«	PUNCT	_	_	27	punct	_	_
 23	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	27	nsubj	_	_
 24	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	27	cop	_	_
 25	ifrå	ifrå	ADP	_	_	27	reparandum	_	_
 26	ifrå	ifrå	ADP	_	_	27	mark	_	_
 27	Harstad	Harstad	PROPN	_	_	18	ccomp	_	_
-28	»	»	NEW	_	_	27	punct	_	_
+28	»	»	PUNCT	_	_	27	punct	_	_
 29	sa	seie	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	27	parataxis	_	_
 30	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	29	nsubj	_	_
 31	.	$.	PUNCT	_	_	3	punct	_	_
@@ -11352,7 +11352,7 @@
 1	mm	mm	INTJ	_	_	0	root	_	_
 2	#	#	PUNCT	_	_	6	punct	_	_
 3	d-	d-	X	_	_	6	discourse:filler	_	_
-4	…	…	NEW	_	_	6	punct	_	_
+4	…	…	PUNCT	_	_	6	punct	_	_
 5	#	#	PUNCT	_	_	6	punct	_	_
 6	ja	ja	INTJ	_	_	1	discourse	_	_
 7	.	$.	PUNCT	_	_	1	punct	_	_
@@ -11404,18 +11404,18 @@
 10	høyrt	høyre	VERB	_	VerbForm=Part	2	parataxis	_	_
 11	nokon	nokon	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Prs	12	iobj	_	_
 12	seie	seie	VERB	_	VerbForm=Inf	10	ccomp	_	_
-13	«	«	NEW	_	_	14	punct	_	_
+13	«	«	PUNCT	_	_	14	punct	_	_
 14	elleve	elleve	NUM	_	Number=Plur|NumType=Card	12	obj	_	_
-15	»	»	NEW	_	_	14	punct	_	_
+15	»	»	PUNCT	_	_	14	punct	_	_
 16	.	$.	PUNCT	_	_	2	punct	_	_
 
 # sent_id =  000920
 # text = dei seier « elleve » ?
 1	dei	dei	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	seier	seie	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	«	«	NEW	_	_	4	punct	_	_
+3	«	«	PUNCT	_	_	4	punct	_	_
 4	elleve	elleve	NUM	_	Number=Plur|NumType=Card	2	obj	_	_
-5	»	»	NEW	_	_	4	punct	_	_
+5	»	»	PUNCT	_	_	4	punct	_	_
 6	?	$?	PUNCT	_	_	2	punct	_	_
 
 # sent_id =  000921
@@ -12037,7 +12037,7 @@
 # sent_id =  000969
 # text = berre … .
 1	berre	berre	ADV	_	_	0	root	_	_
-2	…	…	NEW	_	_	1	punct	_	_
+2	…	…	PUNCT	_	_	1	punct	_	_
 3	.	$.	PUNCT	_	_	1	punct	_	_
 
 # sent_id =  000970
@@ -12327,7 +12327,7 @@
 5	her	her	ADV	_	_	4	advmod	_	_
 6	resten	rest	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	3	obj	_	_
 7	av	av	ADP	_	_	6	nmod	_	_
-8	…	…	NEW	_	_	3	punct	_	_
+8	…	…	PUNCT	_	_	3	punct	_	_
 9	?	$?	PUNCT	_	_	3	punct	_	_
 
 # sent_id =  000994
@@ -12610,7 +12610,7 @@
 3	utav	utav	ADP	_	_	4	case	_	_
 4	seg	seg	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	obl	_	_
 5	forkleet	forkle	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	2	obj	_	_
-6	«	«	NEW	_	_	12	punct	_	_
+6	«	«	PUNCT	_	_	12	punct	_	_
 7	nei	nei	INTJ	_	_	12	discourse	_	_
 8	nå	nå	ADV	_	_	12	advmod	_	_
 9	skal	skulle	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux	_	_
@@ -12624,7 +12624,7 @@
 17	henne	ho	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	parataxis	_	_
 18	lenger	lenger	ADV	_	_	14	advmod	_	_
 19	borte	borte	ADP	_	_	14	compound:prt	_	_
-20	»	»	NEW	_	_	12	punct	_	_
+20	»	»	PUNCT	_	_	12	punct	_	_
 21	ja	ja	INTJ	_	_	12	discourse	_	_
 22	.	$.	PUNCT	_	_	12	punct	_	_
 
@@ -12704,7 +12704,7 @@
 
 # sent_id =  001016
 # text = « ja nå må du komme i nå må du komme i ettermiddag eg # ja kom nå # du skal få smake # e fiskekake eg har steikt og held på å steike fiskekaker få med nokre fiskekaker » eg hugsar det .
-1	«	«	NEW	_	_	6	punct	_	_
+1	«	«	PUNCT	_	_	6	punct	_	_
 2	ja	ja	INTJ	_	_	6	discourse	_	_
 3	nå	nå	ADV	_	_	6	advmod	_	_
 4	må	måtte	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -12743,7 +12743,7 @@
 37	med	med	ADP	_	_	39	case	_	_
 38	nokre	nokon	DET	_	Number=Plur|PronType=Ind	39	det	_	_
 39	fiskekaker	fiskekake	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	36	obl	_	_
-40	»	»	NEW	_	_	6	punct	_	_
+40	»	»	PUNCT	_	_	6	punct	_	_
 41	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	42	nsubj	_	_
 42	hugsar	hugse	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
 43	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	42	obj	_	_
