@@ -580,7 +580,7 @@
 5	selvfølgelig	selvfølgelig	ADV	_	_	6	advmod	_	_
 6	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-8	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	OBJ	_	_
+8	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 9	#	#	PUNCT	_	_	14	punct	_	_
 10	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 11	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	14	cop	_	_
@@ -1564,12 +1564,12 @@
 
 # sent_id =  000129
 # text = å jøss kvar dag omtrent .
-1	å	å	INTJ	_	_	0	root	_	_
-2	jøss	jøss	INTJ	_	_	1	discourse	_	_
+1	å	å	INTJ	_	_	4	discourse	_	_
+2	jøss	jøss	INTJ	_	_	4	discourse	_	_
 3	kvar	kvar	DET	_	Gender=Masc|Number=Sing|PronType=Tot	4	det	_	_
-4	dag	dag	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	FRAG	_	_
+4	dag	dag	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	omtrent	omtrent	ADV	_	_	4	advmod	_	_
-6	.	$.	PUNCT	_	_	1	punct	_	_
+6	.	$.	PUNCT	_	_	4	punct	_	_
 
 # sent_id =  000130
 # text = jaså .
@@ -2346,11 +2346,11 @@
 
 # sent_id =  000191
 # text = ja # berre femtiliterar .
-1	ja	ja	INTJ	_	_	0	root	_	_
+1	ja	ja	INTJ	_	_	4	discourse	_	_
 2	#	#	PUNCT	_	_	4	punct	_	_
 3	berre	berre	ADV	_	_	4	advmod	_	_
-4	femtiliterar	femtiliter	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	1	FRAG	_	_
-5	.	$.	PUNCT	_	_	1	punct	_	_
+4	femtiliterar	femtiliter	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
+5	.	$.	PUNCT	_	_	4	punct	_	_
 
 # sent_id =  000192
 # text = ja .
@@ -2718,16 +2718,16 @@
 
 # sent_id =  000227
 # text = ja M4 å .
-1	ja	ja	INTJ	_	_	0	root	_	_
-2	M4	M4	PROPN	_	_	1	FRAG	_	_
+1	ja	ja	INTJ	_	_	2	discourse	_	_
+2	M4	M4	PROPN	_	_	0	root	_	_
 3	å	å	INTJ	_	_	2	discourse	_	_
-4	.	$.	PUNCT	_	_	1	punct	_	_
+4	.	$.	PUNCT	_	_	2	punct	_	_
 
 # sent_id =  000228
 # text = Hærlandstuer å .
-1	Hærlandstuer	Hærlandstuer	PROPN	_	_	2	FRAG	_	_
-2	å	å	INTJ	_	_	0	root	_	_
-3	.	$.	PUNCT	_	_	2	punct	_	_
+1	Hærlandstuer	Hærlandstuer	PROPN	_	_	0	root	_	_
+2	å	å	INTJ	_	_	1	discourse	_	_
+3	.	$.	PUNCT	_	_	1	punct	_	_
 
 # sent_id =  000229
 # text = M5 og .
@@ -2737,9 +2737,9 @@
 
 # sent_id =  000230
 # text = M5 ja .
-1	M5	M5	PROPN	_	_	2	FRAG	_	_
-2	ja	ja	INTJ	_	_	0	root	_	_
-3	.	$.	PUNCT	_	_	2	punct	_	_
+1	M5	M5	PROPN	_	_	0	root	_	_
+2	ja	ja	INTJ	_	_	1	discourse	_	_
+3	.	$.	PUNCT	_	_	1	punct	_	_
 
 # sent_id =  000231
 # text = Baggetorp .
@@ -8504,8 +8504,8 @@
 
 # sent_id =  000724
 # text = mot som det han er i dag .
-1	mot	mot	ADP	_	_	5	FRAG	_	_
-2	som	som	PRON	_	PronType=Rel	5	reparandum	_	_
+1	mot	mot	ADP	_	_	5	parataxis:deletion	_	_
+2	som	som	PRON	_	PronType=Rel	5	parataxis:deletion	_	_
 3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 4	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -9305,7 +9305,7 @@
 2	ikkje	ikkje	ADV	_	Polarity=Neg	5	advmod	_	_
 3	så	så	ADV	_	_	5	advmod	_	_
 4	svært	svær	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	advmod	_	_
-5	mange	mange	ADJ	_	Degree=Pos|Number=Plur	1	FRAG	_	_
+5	mange	mange	ADJ	_	Degree=Pos|Number=Plur	1	amod	_	_
 6	men	men	CCONJ	_	_	7	reparandum	_	_
 7	men	men	CCONJ	_	_	8	cc	_	_
 8	forekom	forekomme	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -9490,7 +9490,7 @@
 6	eksempel	eksempel	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	4	nmod	_	_
 7	#	#	PUNCT	_	_	6	punct	_	_
 8	nå	nå	ADV	_	_	10	advmod	_	_
-9	korleis	korleis	ADV	_	_	10	FRAG	_	_
+9	korleis	korleis	ADV	_	_	10	advmod	_	_
 10	blei	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 11	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 12	?	$?	PUNCT	_	_	11	punct	_	_
@@ -10443,7 +10443,7 @@
 9	##	##	PUNCT	_	_	8	punct	_	_
 10	ja	ja	INTJ	_	_	3	discourse	_	_
 11	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
-12	_	_	NEW	_	_	14	_	_	_
+12	_	_	PUNCT	_	_	14	punct	_	_
 13	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 14	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 15	i	i	ADP	_	_	16	case	_	_
