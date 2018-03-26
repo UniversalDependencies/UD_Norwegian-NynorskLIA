@@ -820,7 +820,7 @@
 12	#	#	PUNCT	_	_	3	punct	_	_
 13	med	med	ADP	_	_	14	case	_	_
 14	mjølkelasset	mjølkelass	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	9	obl	_	_
-15	mitt	min	DET	_	Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	14	nmod	_	_
+15	mitt	min	PRON	_	Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	14	nmod	_	_
 16	.	$.	PUNCT	_	_	3	punct	_	_
 
 # sent_id =  000066
@@ -895,7 +895,7 @@
 2	tok	ta	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 3	ikkje	ikkje	ADV	_	Polarity=Neg	2	advmod	_	_
 4	mjølka	mjølk	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	2	obj	_	_
-5	di	din	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	nmod	_	_
+5	di	din	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	nmod	_	_
 6	da	da	ADV	_	_	2	advmod	_	_
 7	?	$?	PUNCT	_	_	2	punct	_	_
 
@@ -5895,7 +5895,7 @@
 4	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 5	med	med	ADP	_	_	6	case	_	_
 6	far	far	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	_
-7	din	din	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	_
+7	din	din	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	_
 8	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
 9	reiste	reise	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 10	?	$?	PUNCT	_	_	3	punct	_	_
@@ -6773,7 +6773,7 @@
 16	i	i	ADP	_	_	17	case	_	_
 17	bruk	bruk	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	11	obl	_	_
 18	føre	føre	ADP	_	_	20	case	_	_
-19	mine	min	DET	_	Number=Plur|Poss=Yes|PronType=Prs	20	nmod	_	_
+19	mine	min	PRON	_	Number=Plur|Poss=Yes|PronType=Prs	20	nmod	_	_
 20	dagar	dag	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	17	nmod	_	_
 21	.	$.	PUNCT	_	_	3	punct	_	_
 
@@ -8994,7 +8994,7 @@
 1	ja	ja	INTJ	_	_	0	root	_	_
 2	ja	ja	INTJ	_	_	1	discourse	_	_
 3	all	all	DET	_	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
-4	mi	min	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	nmod	_	_
+4	mi	min	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	nmod	_	_
 5	tid	tid	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	1	parataxis	_	_
 6	frå	frå	ADP	_	_	9	case	_	_
 7	#	#	PUNCT	_	_	9	punct	_	_
@@ -10911,7 +10911,7 @@
 15	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	aux	_	_
 16	høyrt	høyre	VERB	_	VerbForm=Part	10	conj	_	_
 17	berre	berre	ADV	_	_	16	advmod	_	_
-18	min	min	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	nmod	_	_
+18	min	min	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	nmod	_	_
 19	far	far	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	20	nsubj	_	_
 20	fortalde	fortelje	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	16	ccomp	_	_
 21	#	#	PUNCT	_	_	24	punct	_	_
@@ -11121,10 +11121,10 @@
 12	#	#	PUNCT	_	_	13	punct	_	_
 13	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	appos	_	_
 14	og	og	CCONJ	_	_	16	cc	_	_
-15	mi	min	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	nmod	_	_
+15	mi	min	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	nmod	_	_
 16	kone	kone	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	13	conj	_	_
 17	og	og	CCONJ	_	_	19	cc	_	_
-18	mi	min	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	nmod	_	_
+18	mi	min	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	nmod	_	_
 19	søster	søster	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	16	conj	_	_
 20	.	$.	PUNCT	_	_	4	punct	_	_
 
@@ -11815,7 +11815,7 @@
 3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 4	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	søskenbarnet	søskenbarn	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	0	root	_	_
-6	mitt	min	DET	_	Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	5	nmod	_	_
+6	mitt	min	PRON	_	Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	5	nmod	_	_
 7	.	$.	PUNCT	_	_	5	punct	_	_
 
 # sent_id =  000948
@@ -11997,7 +11997,7 @@
 7	eldst	gammal	ADJ	_	Definite=Ind|Degree=Sup	0	root	_	_
 8	utav	utav	ADP	_	_	9	case	_	_
 9	søskena	søsken	NOUN	_	Definite=Def|Gender=Neut|Number=Plur	7	obl	_	_
-10	hennar	hennar	DET	_	Number=Plur|Poss=Yes|PronType=Prs	11	nmod	_	_
+10	hennar	hennar	PRON	_	Number=Plur|Poss=Yes|PronType=Prs	11	nmod	_	_
 11	mamma	mamma	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	9	nmod	_	_
 12	.	$.	PUNCT	_	_	7	punct	_	_
 
@@ -12879,7 +12879,7 @@
 3	nokre	nokre	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	_	_
 4	av	av	ADP	_	_	5	case	_	_
 5	barna	barn	NOUN	_	Definite=Def|Gender=Neut|Number=Plur	3	nmod	_	_
-6	dykkar	dykkar	DET	_	Number=Plur|Poss=Yes|PronType=Prs	5	nmod	_	_
+6	dykkar	dykkar	PRON	_	Number=Plur|Poss=Yes|PronType=Prs	5	nmod	_	_
 7	her	her	ADV	_	_	1	advmod	_	_
 8	?	$?	PUNCT	_	_	1	punct	_	_
 

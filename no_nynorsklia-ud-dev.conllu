@@ -261,7 +261,7 @@
 6	kvelden	kveld	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	3	obl	_	_
 7	ifrå	ifrå	ADP	_	_	8	case	_	_
 8	bykjøringa	bykjøring	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
-9	di	din	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
+9	di	din	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 10	da	da	ADV	_	_	15	advmod	_	_
 11	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	15	cop	_	_
 12	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
@@ -1813,7 +1813,7 @@
 13	pris	pris	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	12	obj	_	_
 14	på	på	ADP	_	_	15	case	_	_
 15	køyringa	køyring	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	_
-16	hans	hans	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	nmod	_	_
+16	hans	hans	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	nmod	_	_
 17	eidsberg_uio_0301	eidsberg_uio_0301	PROPN	_	_	12	obj	_	_
 18	i	i	ADP	_	_	21	case	_	_
 19	alle	all	DET	_	Number=Plur|PronType=Tot	21	det	_	_
@@ -2320,7 +2320,7 @@
 2	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	farsgarden	farsgard	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	2	obj	_	_
 4	#	#	PUNCT	_	_	6	punct	_	_
-5	min	min	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	_
+5	min	min	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	_
 6	fars	far	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	parataxis	_	_
 7	.	$.	PUNCT	_	_	2	punct	_	_
 
@@ -2700,7 +2700,7 @@
 8	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	10	parataxis:deletion	_	_
 9	også	også	ADV	_	_	10	advmod	_	_
 10	guten	gut	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	5	conj	_	_
-11	hennar	hennar	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	nmod	_	_
+11	hennar	hennar	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	nmod	_	_
 12	dei	dei	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
 13	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	15	cop	_	_
 14	sånne	sånn	DET	_	Number=Plur|PronType=Dem	15	det	_	_
@@ -4197,7 +4197,7 @@
 14	til	til	ADP	_	_	16	reparandum	_	_
 15	til	til	ADP	_	_	16	case	_	_
 16	far	far	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	12	obl	_	_
-17	min	min	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	nmod	_	_
+17	min	min	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	nmod	_	_
 18	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	19	cop	_	_
 19	med	med	ADP	_	_	0	root	_	_
 20	nei	nei	INTJ	_	_	19	discourse	_	_
@@ -4216,7 +4216,7 @@
 # sent_id =  001380
 # text = svigerbroren min var med og og # to tre andre vi var tre fire mann # fire fem mann eller fem mann var vi .
 1	svigerbroren	svigerbror	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	_
-2	min	min	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	1	nmod	_	_
+2	min	min	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	1	nmod	_	_
 3	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	_
 4	med	med	ADP	_	_	0	root	_	_
 5	og	og	CCONJ	_	_	6	reparandum	_	_
@@ -4321,7 +4321,7 @@
 8	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
 9	opp	opp	ADP	_	_	7	compound:prt	_	_
 10	lina	line	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	7	obj	_	_
-11	hans	hans	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	nmod	_	_
+11	hans	hans	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	nmod	_	_
 12	##	##	PUNCT	_	_	13	punct	_	_
 13	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	_
 14	visste	vite	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	7	conj	_	_
@@ -4348,7 +4348,7 @@
 5	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 6	på	på	ADP	_	_	7	case	_	_
 7	lina	line	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
-8	hans	hans	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	nmod	_	_
+8	hans	hans	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	nmod	_	_
 9	og	og	CCONJ	_	_	18	cc	_	_
 10	så	så	ADV	_	_	18	advmod	_	_
 11	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
@@ -4357,13 +4357,13 @@
 14	sette	sette	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	18	reparandum	_	_
 15	nå	nå	ADV	_	_	14	advmod	_	_
 16	ned	ned	ADP	_	_	17	case	_	_
-17	vår	vår	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	obl	_	_
+17	vår	vår	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	obl	_	_
 18	slo	slå	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	_
 19	nå	nå	ADV	_	_	18	advmod	_	_
 20	staur	staur	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	18	obj	_	_
 21	på	på	ADP	_	_	22	case	_	_
 22	lina	line	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	18	obl	_	_
-23	vår	vår	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	nmod	_	_
+23	vår	vår	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	22	nmod	_	_
 24	og	og	CCONJ	_	_	25	cc	_	_
 25	sette	sette	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	18	conj	_	_
 26	ned	ned	ADP	_	_	25	compound:prt	_	_
@@ -4371,7 +4371,7 @@
 28	så	så	ADV	_	_	29	advmod	_	_
 29	drog	dra	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	25	conj	_	_
 30	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	29	nsubj	_	_
-31	hans	hans	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	32	nmod	_	_
+31	hans	hans	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	32	nmod	_	_
 32	line	line	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	29	obj	_	_
 33	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 34	vel	vel	ADV	_	_	33	advmod	_	_
