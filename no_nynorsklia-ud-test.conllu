@@ -9804,7 +9804,7 @@
 21	til	til	ADP	_	_	24	nmod	_	_
 22	og	og	CCONJ	_	_	23	cc	_	_
 23	med	med	ADP	_	_	21	conj	_	_
-24	einogførti	einogførti	NUM	_	Number=Plur|NumType=Card	19	nmod	_	_
+24	einogførti	einogførti	NUM	_	Number=Plur|NumType=Card	12	obl	_	_
 25	.	$.	PUNCT	_	_	12	punct	_	_
 
 # sent_id =  000822
