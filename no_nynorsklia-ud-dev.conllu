@@ -242,7 +242,7 @@
 13	til	til	ADP	_	_	14	case	_	_
 14	byen	by	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	12	obl	_	_
 15	#	#	PUNCT	_	_	19	punct	_	_
-16	for	for	ADP	_	_	19	mark	_	_
+16	for	for	SCONJ	_	_	19	mark	_	_
 17	å	å	PART	_	_	19	mark	_	_
 18	få	få	AUX	_	VerbForm=Inf	19	aux	_	_
 19	greidd	greie	VERB	_	VerbForm=Part	12	advcl	_	_
@@ -622,7 +622,7 @@
 3	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	så	så	ADV	_	_	5	advmod	_	_
 5	fæle	fæl	ADJ	_	Degree=Pos|Number=Plur	0	root	_	_
-6	til	til	ADP	_	_	8	mark	_	_
+6	til	til	SCONJ	_	_	8	mark	_	_
 7	å	å	PART	_	_	8	mark	_	_
 8	synge	synge	VERB	_	VerbForm=Inf	5	advcl	_	_
 9	og	og	CCONJ	_	_	10	cc	_	_
@@ -1022,7 +1022,7 @@
 # sent_id =  001149
 # text = femtiliteren for å køyre mjølka .
 1	femtiliteren	femtiliter	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
-2	for	for	ADP	_	_	4	mark	_	_
+2	for	for	SCONJ	_	_	4	mark	_	_
 3	å	å	PART	_	_	4	mark	_	_
 4	køyre	køyre	VERB	_	VerbForm=Inf	1	acl	_	_
 5	mjølka	mjølk	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	4	obj	_	_
@@ -1433,7 +1433,7 @@
 8	ein	ein	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|PronType=Art,Prs	12	nsubj	_	_
 9	e	e	X	_	_	12	discourse:filler	_	_
 10	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	12	cop	_	_
-11	på	på	ADP	_	_	12	mark	_	_
+11	på	på	SCONJ	_	_	12	mark	_	_
 12	Riksen	Riksen	PROPN	_	_	14	advcl	_	_
 13	da	da	ADV	_	_	18	advmod	_	_
 14	så	så	ADV	_	_	18	advmod	_	_
@@ -2381,7 +2381,7 @@
 13	leilegheita	leilegheit	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	12	obj	_	_
 14	oppe	oppe	ADP	_	_	12	xcomp	_	_
 15	#	#	PUNCT	_	_	12	punct	_	_
-16	til	til	ADP	_	_	18	mark	_	_
+16	til	til	SCONJ	_	_	18	mark	_	_
 17	å	å	PART	_	_	18	mark	_	_
 18	begynne	begynne	VERB	_	VerbForm=Inf	12	advcl	_	_
 19	med	med	ADP	_	_	18	compound:prt	_	_
@@ -4075,7 +4075,7 @@
 15	liksom	liksom	ADV	_	_	17	advmod	_	_
 16	#	#	PUNCT	_	_	17	punct	_	_
 17	plaga	plage	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	csubj	_	_
-18	for	for	ADP	_	_	20	mark	_	_
+18	for	for	SCONJ	_	_	20	mark	_	_
 19	å	å	PART	_	_	20	mark	_	_
 20	få	få	VERB	_	VerbForm=Inf	17	advcl	_	_
 21	bruket	bruk	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	20	obj	_	_
@@ -4428,7 +4428,7 @@
 23	lysa	lyse	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	22	nsubj	_	_
 24	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	25	cop	_	_
 25	sikker	sikker	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	22	conj	_	_
-26	på	på	ADP	_	_	29	mark	_	_
+26	på	på	SCONJ	_	_	29	mark	_	_
 27	at	at	SCONJ	_	_	29	mark	_	_
 28	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	expl	_	_
 29	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	25	advcl	_	_
