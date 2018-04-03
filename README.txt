@@ -15,6 +15,13 @@ The LIA treebank consists of dialect recordings made in the
 
 We thank the annotators of the original treebank and in particular Andre Kaasen.
 
+# Changelog
+
+* 2018-04-15 v2.2
+  * ?
+* 2017-11-15 v2.1
+  * Initial UD release.
+
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.1
 License: CC BY-SA 4.0
