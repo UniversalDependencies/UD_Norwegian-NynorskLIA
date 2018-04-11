@@ -1,14 +1,10 @@
-Sun Feb 11 20:48:09 CET 2018
-perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Norwegian-NynorskLIA
 Running the following version of tools/evaluate_treebank.pl:
-commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+commit 87d374bbd458d29331d76014d05c52eaac32518d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Feb 11 20:27:50 2018 +0100
-Switched to branch 'master'
-Your branch is up-to-date with 'origin/master'.
+Date:   Wed Apr 11 09:21:53 2018 +0200
 Evaluating the following revision of UD_Norwegian-NynorskLIA:
-commit a4dd5dd830ed73a4773f282d7a2e7fdd20053079
-Merge: 65fe89f 447b2c0
+commit 813148a6d242af5499e7317518f2adf0d786e3bf
+Merge: c389cd4 5d5124b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 13608 of 13608 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.22131571018712.
@@ -21,21 +17,24 @@ Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
 Features: 6560 out of 13608 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 30 out of 37 found in the corpus.
+Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 139 bugs.
+Udapi: found 133 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 13608 words.
 Genres: found 1 out of 14 known.
+validate.py --lang no --max-err=10 UD_Norwegian-NynorskLIA/no_nynorsklia-ud-test.conllu
+*** PASSED ***
+validate.py --lang no --max-err=10 UD_Norwegian-NynorskLIA/no_nynorsklia-ud-train.conllu
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.0714285714285714) = 0.00549450549450549
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.377931433534838) = 0.0969054957781635
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.897854203409759) = 0.276262831818387
-(weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.596221024766895) * (availability=1) * (validity=1) = 0.596221024766895
+(weight=0.307692307692308) * (score{udapi}=0.902263374485597) = 0.277619499841722
+(weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
+(TOTAL score=0.595914491127028) * (availability=1) * (validity=1) = 0.595914491127028
 STARS = 3
-UD_Norwegian-NynorskLIA	0.596221024766895	3
-Switched to branch 'dev'
-Your branch is up-to-date with 'origin/dev'.
+UD_Norwegian-NynorskLIA	0.595914491127028	3
