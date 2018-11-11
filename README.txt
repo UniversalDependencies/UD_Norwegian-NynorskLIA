@@ -29,7 +29,7 @@ Includes text: yes
 Genre: spoken
 Lemmas: converted from manual
 UPOS: converted from manual
-morphoXPOS: not available
+XPOS: not available
 Features: converted from manual
 Relations: converted from manual
 Contributors: Øvrelid, Lilja
