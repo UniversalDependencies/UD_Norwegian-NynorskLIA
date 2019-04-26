@@ -32,7 +32,7 @@ UPOS: converted from manual
 XPOS: not available
 Features: converted from manual
 Relations: converted from manual
-Contributors: Øvrelid, Lilja
+Contributors: Øvrelid, Lilja; Kaasen, Andre
 Contributing: elsewhere
 Contact: liljao@ifi.uio.no
 ===============================================================================
