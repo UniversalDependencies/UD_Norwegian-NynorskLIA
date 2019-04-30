@@ -1681,7 +1681,7 @@
 4	og	og	CCONJ	_	_	9	cc	_	_
 5	så	så	ADV	_	_	9	advmod	_	_
 6	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	_
-7	der	der	ADV	_	_	9	expl	_	_
+7	der	der	PRON	_	PronType=Prs	9	expl	_	_
 8	#	#	PUNCT	_	_	7	punct	_	_
 9	ein	ein	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|PronType=Art,Prs	0	root	_	_
 10	baki	baki	ADP	_	_	9	nmod	_	_
@@ -2308,7 +2308,7 @@
 # text = og der var nå litt trasig å komme fram da når dei skulle køyre med hest .
 # dialect: lierne speakerid: lierne_uio_01
 1	og	og	CCONJ	_	_	6	cc	_	_
-2	der	der	ADV	_	_	6	expl	_	_
+2	der	der	PRON	_	PronType=Prs	6	expl	_	_
 3	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	_
 4	nå	nå	ADV	_	_	6	advmod	_	_
 5	litt	litt	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	advmod	_	_
@@ -3652,7 +3652,7 @@
 3	der	der	ADV	_	_	10	reparandum	_	_
 4	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 5	##	##	PUNCT	_	_	3	punct	_	_
-6	der	der	ADV	_	_	10	expl	_	_
+6	der	der	PRON	_	PronType=Prs	10	expl	_	_
 7	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
 8	ikkje	ikkje	PART	_	Polarity=Neg	10	advmod	_	_
 9	så	så	ADV	_	_	10	advmod	_	_
@@ -3677,7 +3677,7 @@
 1	men	men	CCONJ	_	_	7	cc	_	_
 2	så	så	ADV	_	_	7	advmod	_	_
 3	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
-4	der	der	ADV	_	_	7	expl	_	_
+4	der	der	PRON	_	PronType=Prs	7	expl	_	_
 5	jo	jo	ADV	_	_	7	advmod	_	_
 6	#	#	PUNCT	_	_	5	punct	_	_
 7	ungdomskveldar	ungdomskveld	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
@@ -3738,7 +3738,7 @@
 21	men	men	CCONJ	_	_	23	cc	_	_
 22	så	så	ADV	_	_	23	advmod	_	_
 23	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	_
-24	der	der	ADV	_	_	23	expl	_	_
+24	der	der	PRON	_	PronType=Prs	23	expl	_	_
 25	biljardbord	biljardbord	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	23	nsubj	_	_
 26	og	og	CCONJ	_	_	28	cc	_	_
 27	#	#	PUNCT	_	_	26	punct	_	_
@@ -3934,9 +3934,9 @@
 # text = er der er der andre ting ?
 # dialect: farsund speakerid: farsund_uib_02
 1	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	reparandum	_	_
-2	der	der	ADV	_	_	1	expl	_	_
+2	der	der	PRON	_	PronType=Prs	1	expl	_	_
 3	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	_
-4	der	der	ADV	_	_	6	expl	_	_
+4	der	der	PRON	_	PronType=Prs	6	expl	_	_
 5	andre	annan	DET	_	Number=Plur|PronType=Dem	6	det	_	_
 6	ting	ting	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
 7	?	$?	PUNCT	_	_	6	punct	_	_
@@ -7951,7 +7951,7 @@
 7	den	den	DET	_	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
 8	stonga	stong	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	15	obl	_	_
 9	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	_
-10	der	der	ADV	_	_	15	expl	_	_
+10	der	der	PRON	_	PronType=Prs	15	expl	_	_
 11	ei	ein	DET	_	Gender=Fem|Number=Sing|PronType=Art	14	reparandum	_	_
 12	e	e	X	_	_	14	discourse:filler	_	_
 13	#	#	PUNCT	_	_	12	punct	_	_
@@ -8548,7 +8548,7 @@
 # dialect: giske speakerid: giske_uib_02
 1	em	em	X	_	_	2	discourse:filler	_	_
 2	jo	jo	INTJ	_	_	5	discourse	_	_
-3	der	der	ADV	_	_	5	expl	_	_
+3	der	der	PRON	_	PronType=Prs	5	expl	_	_
 4	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	nokon	nokon	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Prs	0	root	_	_
 6	som	som	PRON	_	PronType=Rel	9	nsubj	_	_
@@ -8652,7 +8652,7 @@
 23	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	_
 24	veit	vite	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	conj	_	_
 25	at	at	SCONJ	_	_	29	mark	_	_
-26	der	der	ADV	_	_	29	expl	_	_
+26	der	der	PRON	_	PronType=Prs	29	expl	_	_
 27	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	29	cop	_	_
 28	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	fisk	fisk	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	24	xcomp	_	_
@@ -8866,7 +8866,7 @@
 # sent_id = 004908
 # text = der er er mykje vipe og reir .
 # dialect: giske speakerid: giske_uib_02
-1	der	der	ADV	_	_	5	expl	_	_
+1	der	der	PRON	_	PronType=Prs	5	expl	_	_
 2	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	reparandum	_	_
 3	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	mykje	mykje	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	5	amod	_	_
@@ -11879,7 +11879,7 @@
 3	#	#	PUNCT	_	_	2	punct	_	_
 4	så	så	ADV	_	_	5	advmod	_	_
 5	stod	stå	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-6	der	der	ADV	_	_	5	expl	_	_
+6	der	der	PRON	_	PronType=Prs	5	expl	_	_
 7	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	mann	mann	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	obj	_	_
 9	#	#	PUNCT	_	_	10	punct	_	_
@@ -11925,7 +11925,7 @@
 # dialect: flakstad speakerid: flakstad_uib_04
 1	så	så	ADV	_	_	2	advmod	_	_
 2	stod	stå	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	der	der	ADV	_	_	2	expl	_	_
+3	der	der	PRON	_	PronType=Prs	2	expl	_	_
 4	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	mann	mann	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	obj	_	_
 6	så	så	ADV	_	_	8	advmod	_	_
@@ -11985,7 +11985,7 @@
 # dialect: flakstad speakerid: flakstad_uib_04
 1	så	så	ADV	_	_	2	advmod	_	_
 2	stod	stå	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	der	der	ADV	_	_	2	expl	_	_
+3	der	der	PRON	_	PronType=Prs	2	expl	_	_
 4	berre	berre	ADV	_	_	2	advmod	_	_
 5	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	2	obj	_	_
 6	stadig	stadig	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	7	advmod	_	_
@@ -12407,7 +12407,7 @@
 7	torvtak	torvtak	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
 8	##	##	PUNCT	_	_	9	punct	_	_
 9	og	og	CCONJ	_	_	12	cc	_	_
-10	der	der	ADV	_	_	12	expl	_	_
+10	der	der	PRON	_	PronType=Prs	12	expl	_	_
 11	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	12	cop	_	_
 12	trerenner	trerenne	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	7	conj	_	_
 13	##	##	PUNCT	_	_	15	punct	_	_
