@@ -25280,7 +25280,7 @@
 2	e	e	X	_	_	3	discourse:filler	_	_
 3	så	så	ADV	_	_	10	advmod	_	_
 4	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
-5	her	her	ADV	_	_	10	expl	_	_
+5	her	her	PRON	_	PronType=Prs	10	expl	_	_
 6	da	da	ADV	_	_	10	advmod	_	_
 7	#	#	PUNCT	_	_	6	punct	_	_
 8	kanskje	kanskje	ADV	_	_	10	advmod	_	_
@@ -26811,7 +26811,7 @@
 9	ja	ja	INTJ	_	_	15	discourse	_	_
 10	da	da	ADV	_	_	15	advmod	_	_
 11	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	15	cop	_	_
-12	her	her	ADV	_	_	15	expl	_	_
+12	her	her	PRON	_	PronType=Prs	15	expl	_	_
 13	svært	svær	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	14	advmod	_	_
 14	mykje	mykje	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
 15	folk	folk	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	7	conj	_	_
@@ -28252,7 +28252,7 @@
 8	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 9	kan	kunne	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	seie	seie	VERB	_	VerbForm=Inf	6	ccomp	_	_
-11	her	her	ADV	_	_	12	expl	_	_
+11	her	her	PRON	_	PronType=Prs	12	expl	_	_
 12	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	xcomp	_	_
 13	for	for	ADP	_	_	12	compound:prt	_	_
 14	e	e	X	_	_	12	discourse:filler	_	_
@@ -28329,7 +28329,7 @@
 1	så	så	ADV	_	_	10	advmod	_	_
 2	e	e	X	_	_	4	discourse:filler	_	_
 3	#	#	PUNCT	_	_	2	punct	_	_
-4	her	her	ADV	_	_	10	expl	_	_
+4	her	her	PRON	_	PronType=Prs	10	expl	_	_
 5	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
 6	i	i	ADP	_	_	7	case	_	_
 7	grunnen	grunn	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	10	obl	_	_
@@ -28847,7 +28847,7 @@
 1	elles	elles	ADV	_	_	3	advmod	_	_
 2	så	så	ADV	_	_	3	advmod	_	_
 3	blæs	blåse	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	her	her	ADV	_	_	3	expl	_	_
+4	her	her	PRON	_	PronType=Prs	3	expl	_	_
 5	e	e	X	_	_	7	discourse:filler	_	_
 6	#	#	PUNCT	_	_	5	punct	_	_
 7	jamt	jamn	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
@@ -29170,7 +29170,7 @@
 # sent_id = 002134
 # text = her er ein del e # ein heil del e # som em # har gardsbruk .
 # dialect: giske speakerid: giske_uib_02
-1	her	her	ADV	_	_	9	expl	_	_
+1	her	her	PRON	_	PronType=Prs	9	expl	_	_
 2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	_
 3	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	del	del	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	9	reparandum	_	_
@@ -29461,7 +29461,7 @@
 5	av	av	ADP	_	_	3	compound:prt	_	_
 6	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 7	at	at	SCONJ	_	_	9	mark	_	_
-8	her	her	ADV	_	_	9	expl	_	_
+8	her	her	PRON	_	PronType=Prs	9	expl	_	_
 9	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 10	ikkje	ikkje	PART	_	Polarity=Neg	9	advmod	_	_
 11	.	$.	PUNCT	_	_	3	punct	_	_
@@ -29469,7 +29469,7 @@
 # sent_id = 002151
 # text = her er ikkje arbeidsmoglegheiter på landet for e .
 # dialect: giske speakerid: giske_uib_02
-1	her	her	ADV	_	_	4	expl	_	_
+1	her	her	PRON	_	PronType=Prs	4	expl	_	_
 2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	ikkje	ikkje	PART	_	Polarity=Neg	4	advmod	_	_
 4	arbeidsmoglegheiter	arbeidsmoglegheit	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
@@ -29532,7 +29532,7 @@
 # sent_id = 002154
 # text = her er ein del folk som flytta ut ifrå øya # øya .
 # dialect: giske speakerid: giske_uib_02
-1	her	her	ADV	_	_	5	expl	_	_
+1	her	her	PRON	_	PronType=Prs	5	expl	_	_
 2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	del	del	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	_
@@ -29847,7 +29847,7 @@
 3	#	#	PUNCT	_	_	2	punct	_	_
 4	slik	slik	ADV	_	_	11	advmod	_	_
 5	at	at	SCONJ	_	_	11	mark	_	_
-6	her	her	ADV	_	_	11	expl	_	_
+6	her	her	PRON	_	PronType=Prs	11	expl	_	_
 7	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	_
 8	ikkje	ikkje	PART	_	Polarity=Neg	11	advmod	_	_
 9	så	så	ADV	_	_	11	advmod	_	_
@@ -29925,7 +29925,7 @@
 10	dei	dei	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
 11	minkar	minke	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	_
 12	også	også	ADV	_	_	11	advmod	_	_
-13	her	her	ADV	_	_	17	expl	_	_
+13	her	her	PRON	_	PronType=Prs	17	expl	_	_
 14	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	_
 15	ikkje	ikkje	PART	_	Polarity=Neg	17	advmod	_	_
 16	så	så	ADV	_	_	17	advmod	_	_
@@ -30179,7 +30179,7 @@
 # sent_id = 002192
 # text = her er # store trerøter dei finn i # i torvmyrene også .
 # dialect: giske speakerid: giske_uib_02
-1	her	her	ADV	_	_	5	expl	_	_
+1	her	her	PRON	_	PronType=Prs	5	expl	_	_
 2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	#	#	PUNCT	_	_	2	punct	_	_
 4	store	stor	ADJ	_	Degree=Pos|Number=Plur	5	amod	_	_
@@ -30197,7 +30197,7 @@
 # text = så her har vore skog .
 # dialect: giske speakerid: giske_uib_02
 1	så	så	CCONJ	_	_	5	cc	_	_
-2	her	her	ADV	_	_	5	expl	_	_
+2	her	her	PRON	_	PronType=Prs	5	expl	_	_
 3	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	vore	vere	AUX	_	VerbForm=Part	5	cop	_	_
 5	skog	skog	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
@@ -30283,10 +30283,10 @@
 # text = ja her er # her er altså mange plassar som e .
 # dialect: giske speakerid: giske_uib_02
 1	ja	ja	INTJ	_	_	9	discourse	_	_
-2	her	her	ADV	_	_	3	expl	_	_
+2	her	her	PRON	_	PronType=Prs	3	expl	_	_
 3	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	reparandum	_	_
 4	#	#	PUNCT	_	_	3	punct	_	_
-5	her	her	ADV	_	_	9	expl	_	_
+5	her	her	PRON	_	PronType=Prs	9	expl	_	_
 6	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	altså	altså	ADV	_	_	9	advmod	_	_
 8	mange	mange	ADJ	_	Degree=Pos|Number=Plur	9	amod	_	_
@@ -30896,7 +30896,7 @@
 # sent_id = 002240
 # text = her manglar for eksempel eg trur det han må seie det manglar ungdomslag og .
 # dialect: giske speakerid: giske_uib_02
-1	her	her	ADV	_	_	2	expl	_	_
+1	her	her	PRON	_	PronType=Prs	2	expl	_	_
 2	manglar	mangle	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	parataxis:deletion	_	_
 3	for	for	ADP	_	_	4	case	_	_
 4	eksempel	eksempel	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	obl	_	_
@@ -30918,16 +30918,16 @@
 1	songkor	songkor	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
 2	og	og	CCONJ	_	_	1	cc	_	_
 3	skulle	skulle	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	1	aux	_	_
-4	her	her	ADV	_	_	1	expl	_	_
+4	her	her	PRON	_	PronType=Prs	1	expl	_	_
 5	vore	vere	AUX	_	VerbForm=Part	1	cop	_	_
 6	men	men	CCONJ	_	_	10	cc	_	_
-7	her	her	ADV	_	_	10	expl	_	_
+7	her	her	PRON	_	PronType=Prs	10	expl	_	_
 8	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	ikkje	ikkje	PART	_	Polarity=Neg	10	advmod	_	_
 10	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	conj	_	_
 11	#	#	PUNCT	_	_	12	punct	_	_
 12	dessverre	dessverre	ADV	_	_	10	advmod	_	_
-13	her	her	ADV	_	_	16	expl	_	_
+13	her	her	PRON	_	PronType=Prs	16	expl	_	_
 14	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	16	cop	_	_
 15	ikkje	ikkje	PART	_	Polarity=Neg	16	advmod	_	_
 16	hornmusikk	hornmusikk	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	conj	_	_
@@ -31100,7 +31100,7 @@
 10	ikkje	ikkje	PART	_	Polarity=Neg	11	advmod	_	_
 11	seie	seie	VERB	_	VerbForm=Inf	0	root	_	_
 12	at	at	SCONJ	_	_	14	mark	_	_
-13	her	her	ADV	_	_	14	expl	_	_
+13	her	her	PRON	_	PronType=Prs	14	expl	_	_
 14	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	xcomp	_	_
 15	.	$.	PUNCT	_	_	11	punct	_	_
 
@@ -31205,7 +31205,7 @@
 1	elles	elles	ADV	_	_	8	advmod	_	_
 2	så	så	ADV	_	_	8	advmod	_	_
 3	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	_
-4	her	her	ADV	_	_	8	expl	_	_
+4	her	her	PRON	_	PronType=Prs	8	expl	_	_
 5	nå	nå	ADV	_	_	8	advmod	_	_
 6	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	del	del	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	_
@@ -31334,7 +31334,7 @@
 19	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_
 20	trur	tru	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	_
 21	ikkje	ikkje	PART	_	Polarity=Neg	20	advmod	_	_
-22	her	her	ADV	_	_	25	expl	_	_
+22	her	her	PRON	_	PronType=Prs	25	expl	_	_
 23	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	25	cop	_	_
 24	stort	stor	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
 25	andre	annan	DET	_	Definite=Def|Degree=Pos|Number=Sing|PronType=Dem	20	xcomp	_	_
@@ -33578,7 +33578,7 @@
 17	for	for	ADP	_	_	18	case	_	_
 18	seg	seg	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	13	obl	_	_
 19	sjølv	sjølv	ADV	_	_	18	advmod	_	_
-20	her	her	ADV	_	_	23	expl	_	_
+20	her	her	PRON	_	PronType=Prs	23	expl	_	_
 21	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	23	aux	_	_
 22	ikkje	ikkje	PART	_	Polarity=Neg	23	advmod	_	_
 23	vore	vere	VERB	_	VerbForm=Part	4	conj	_	_
@@ -42691,7 +42691,7 @@
 7	imellom	imellom	ADP	_	_	8	case	_	_
 8	klørne	klo	NOUN	_	Definite=Def|Gender=Fem|Number=Plur	6	obl	_	_
 9	#	#	PUNCT	_	_	10	punct	_	_
-10	her	her	ADV	_	_	13	expl	_	_
+10	her	her	PRON	_	PronType=Prs	13	expl	_	_
 11	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	13	cop	_	_
 12	berre	berre	ADV	_	_	13	advmod	_	_
 13	seks	seks	NUM	_	Number=Plur|NumType=Card	6	conj	_	_

@@ -7371,7 +7371,7 @@
 # text = men her er nokre få her e # på Giske som er ekspertar .
 # dialect: giske speakerid: giske_uib_02
 1	men	men	CCONJ	_	_	3	cc	_	_
-2	her	her	ADV	_	_	3	expl	_	_
+2	her	her	PRON	_	PronType=Prs	3	expl	_	_
 3	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	nokre	nokon	DET	_	Number=Plur|PronType=Ind	5	det	_	_
 5	få	få	ADJ	_	Degree=Pos|Number=Plur	3	obj	_	_
@@ -8818,14 +8818,14 @@
 # dialect: giske speakerid: giske_uib_02
 1	veit	vite	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 2	ikkje	ikkje	PART	_	Polarity=Neg	1	advmod	_	_
-3	her	her	ADV	_	_	4	expl	_	_
+3	her	her	PRON	_	PronType=Prs	4	expl	_	_
 4	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	nå	nå	ADV	_	_	4	advmod	_	_
 6	mange	mange	ADJ	_	Degree=Pos|Number=Plur	7	amod	_	_
 7	slags	slags	NOUN	_	Gender=Masc	9	nmod	_	_
 8	#	#	PUNCT	_	_	7	punct	_	_
 9	fuglar	fugl	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	4	obj	_	_
-10	her	her	ADV	_	_	11	expl	_	_
+10	her	her	PRON	_	PronType=Prs	11	expl	_	_
 11	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	_
 12	vipe	vipe	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	_
 13	.	$.	PUNCT	_	_	4	punct	_	_

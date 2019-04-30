@@ -7037,7 +7037,7 @@
 # sent_id = 003915
 # text = her er cirka ein # ti elleve fiskebåtar # over femti tonn # som driv vinterfiske .
 # dialect: giske speakerid: giske_uib_02
-1	her	her	ADV	_	_	8	expl	_	_
+1	her	her	PRON	_	PronType=Prs	8	expl	_	_
 2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	_
 3	cirka	cirka	ADV	_	_	8	advmod	_	_
 4	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -7072,7 +7072,7 @@
 # sent_id = 003917
 # text = her er ikkje nokon snurpebåtar her .
 # dialect: giske speakerid: giske_uib_02
-1	her	her	ADV	_	_	2	expl	_	_
+1	her	her	PRON	_	PronType=Prs	2	expl	_	_
 2	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ikkje	ikkje	PART	_	Polarity=Neg	2	advmod	_	_
 4	nokon	nokon	DET	_	Number=Plur|PronType=Ind	5	det	_	_
@@ -7427,7 +7427,7 @@
 # sent_id = 003934
 # text = her er fleire sildoljefabrikkar her på # Sunnmøre .
 # dialect: giske speakerid: giske_uib_02
-1	her	her	ADV	_	_	2	expl	_	_
+1	her	her	PRON	_	PronType=Prs	2	expl	_	_
 2	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	fleire	mange	ADJ	_	_	4	amod	_	_
 4	sildoljefabrikkar	sildoljefabrikk	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	2	obj	_	_
@@ -7449,7 +7449,7 @@
 7	nemne	nemne	VERB	_	VerbForm=Inf	2	xcomp	_	_
 8	kor	kor	ADV	_	_	9	advmod	_	_
 9	mange	mange	ADJ	_	Degree=Pos|Number=Plur	7	advcl	_	_
-10	her	her	ADV	_	_	9	expl	_	_
+10	her	her	PRON	_	PronType=Prs	9	expl	_	_
 11	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	_
 12	men	men	CCONJ	_	_	20	cc	_	_
 13	e	e	X	_	_	15	discourse:filler	_	_
@@ -7460,7 +7460,7 @@
 18	fem	fem	NUM	_	Number=Plur|NumType=Card	19	nummod	_	_
 19	stykke	stykke	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	20	obj	_	_
 20	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	conj	_	_
-21	her	her	ADV	_	_	20	expl	_	_
+21	her	her	PRON	_	PronType=Prs	20	expl	_	_
 22	vel	vel	ADV	_	_	20	advmod	_	_
 23	iallfall	iallfall	ADV	_	_	20	advmod	_	_
 24	.	$.	PUNCT	_	_	2	punct	_	_
@@ -7661,7 +7661,7 @@
 # sent_id = 003946
 # text = her driv seifiske her utanfor ja # særleg nå desse siste åra har det vore sm- bra seifiske .
 # dialect: giske speakerid: giske_uib_02
-1	her	her	ADV	_	_	2	expl	_	_
+1	her	her	PRON	_	PronType=Prs	2	expl	_	_
 2	driv	drive	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	seifiske	seifiske	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	obj	_	_
 4	her	her	ADV	_	_	2	advmod	_	_
