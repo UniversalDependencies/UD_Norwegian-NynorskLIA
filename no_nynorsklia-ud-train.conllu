@@ -33698,7 +33698,7 @@
 6	årsaka	årsak	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
 7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
 8	#	#	PUNCT	_	_	7	punct	_	_
-9	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	conj	_	_
 10	nå	nå	ADV	_	_	9	advmod	_	_
 11	da	da	ADV	_	_	9	advmod	_	_
 12	#	#	PUNCT	_	_	13	punct	_	_
