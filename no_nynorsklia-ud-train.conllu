@@ -20799,7 +20799,7 @@
 5	e	e	X	_	_	6	discourse:filler	_	_
 6	ja	ja	INTJ	_	_	8	discourse	_	_
 7	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-8	veit	vite	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	conj	_	_
+8	veit	vite	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	reparandum	_	_
 9	ikkje	ikkje	PART	_	Polarity=Neg	8	advmod	_	_
 10	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 11	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	14	cop	_	_

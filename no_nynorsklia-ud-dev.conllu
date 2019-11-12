@@ -7149,7 +7149,7 @@
 5	lenger	lenger	ADV	_	_	10	advmod	_	_
 6	sør	sør	ADP	_	_	10	case	_	_
 7	eller	eller	CCONJ	_	_	8	cc	_	_
-8	nord	nord	ADP	_	_	10	conj	_	_
+8	nord	nord	ADP	_	_	4	nmod	_	_
 9	de	de	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
 10	driv	drive	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	fisket	fiske	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	10	obj	_	_
