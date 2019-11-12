@@ -92,7 +92,7 @@
     <dep name="ccomp">216</dep>
     <dep name="compound">2</dep>
     <dep name="compound:prt">741</dep>
-    <dep name="conj">1888</dep>
+    <dep name="conj">1886</dep>
     <dep name="cop">1833</dep>
     <dep name="csubj">34</dep>
     <dep name="det">1757</dep>
@@ -102,7 +102,7 @@
     <dep name="flat:name">43</dep>
     <dep name="iobj">74</dep>
     <dep name="mark">1275</dep>
-    <dep name="nmod">1421</dep>
+    <dep name="nmod">1422</dep>
     <dep name="nsubj">4533</dep>
     <dep name="nsubj:pass">57</dep>
     <dep name="nummod">286</dep>
@@ -111,7 +111,7 @@
     <dep name="parataxis">112</dep>
     <dep name="parataxis:deletion">383</dep>
     <dep name="punct">9565</dep>
-    <dep name="reparandum">1260</dep>
+    <dep name="reparandum">1261</dep>
     <dep name="root">5250</dep>
     <dep name="xcomp">618</dep>
   </deps>
