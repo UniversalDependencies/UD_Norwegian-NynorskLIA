@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Norwegian-NynorskLIA:
-commit 7e0ff97440b205af96407396a2cc32bb999433d0
+commit 59f921f5e67c10e24ec51e3a8ba7cb62fbb44c9d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 12 17:31:37 2019 +0100
+Date:   Sun May 10 18:29:35 2020 +0200
 Size: counted 55410 of 55410 words (nodes).
 Size: min(0, log((N/1000)**2)) = 8.02952016575852.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -47,8 +47,8 @@ validate.py --lang no --max-err=10 UD_Norwegian-NynorskLIA/no_nynorsklia-ud-test
 [Line 3369 Sent 004541 Node 15]: [L3 Syntax leaf-cc] 'cc' not expected to have children (15:og:cc --> 14:av:nmod)
 [Line 3371 Sent 004541 Node 15]: [L3 Syntax leaf-cc] 'cc' not expected to have children (15:og:cc --> 16:til:obl)
 ...suppressing further errors regarding Syntax
-Syntax errors: 32
-*** FAILED *** with 32 errors
+Syntax errors: 31
+*** FAILED *** with 31 errors
 Exit code: 1
 validate.py --lang no --max-err=10 UD_Norwegian-NynorskLIA/no_nynorsklia-ud-train.conllu
 [Line 1527 Sent 000123 Node 13]: [L3 Syntax leaf-cc] 'cc' not expected to have children (13:men:cc --> 11:e:discourse)
@@ -61,8 +61,8 @@ validate.py --lang no --max-err=10 UD_Norwegian-NynorskLIA/no_nynorsklia-ud-trai
 [Line 5933 Sent 000466 Node 3]: [L3 Syntax leaf-cc] 'cc' not expected to have children (3:men:cc --> 2:e:discourse)
 [Line 5935 Sent 000466 Node 5]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (5:når:mark --> 4:e:discourse)
 ...suppressing further errors regarding Syntax
-Syntax errors: 112
-*** FAILED *** with 112 errors
+Syntax errors: 117
+*** FAILED *** with 117 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
