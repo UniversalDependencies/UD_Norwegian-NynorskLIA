@@ -34,5 +34,5 @@ Features: converted from manual
 Relations: converted from manual
 Contributors: Øvrelid, Lilja; Kaasen, Andre; Dale, Ingerid; Tollersrud, Thea;
 Contributing: elsewhere
-Contact: sprakbanken@nb.no
+Contact: <sprakbanken@nb.no>
 ===============================================================================
