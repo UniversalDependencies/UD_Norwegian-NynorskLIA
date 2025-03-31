@@ -32,7 +32,7 @@ UPOS: converted from manual
 XPOS: not available
 Features: converted from manual
 Relations: converted from manual
-Contributors: Øvrelid, Lilja; Kaasen, Andre
+Contributors: Øvrelid, Lilja; Kaasen, Andre; Dale, Ingerid; Tollersrud, Thea;
 Contributing: elsewhere
-Contact: liljao@ifi.uio.no
+Contact: sprakbanken@nb.no
 ===============================================================================
